@@ -35,4 +35,4 @@ This workspace is structured modularly to track foundational and advanced paradi
 ## 📈 Learning in Public
 This repository acts as the central technical log for my iterative learning progression. Each code module is thoroughly built, tested, and shared transparently to bridge the gap between academic theory and practical software execution.
 
-*Follow my journey and daily breakdowns on LinkedIn:* `#AIJourneyWithSulochana`
+*Follow my journey and daily breakdowns on LinkedIn:* `#AIJourney`
