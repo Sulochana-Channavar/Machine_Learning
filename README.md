@@ -36,6 +36,7 @@ This workspace is structured modularly to track foundational and advanced paradi
 This repository acts as the central technical log for my iterative learning progression. Each code module is thoroughly built, tested, and shared transparently to bridge the gap between academic theory and practical software execution.
 
 ### 📄Download PDF Cheat Sheet for XGBoost_vs_LightGBM_Notes.
+https://github.com/Sulochana-Channavar/Machine_Learning/blob/main/XGBoost_vs_LightGBM_Notes_Clean.pdf
 
 
 *Follow my journey and daily breakdowns on LinkedIn:* `#AIJourney`.
